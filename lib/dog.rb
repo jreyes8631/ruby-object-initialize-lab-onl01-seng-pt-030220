@@ -4,6 +4,7 @@ class Dog
     
   end
   
-  def 
+  def name = (persons_name)
+    @name
   
 end
