@@ -1,4 +1,5 @@
-class Dog(name)
+class Dog
+  def initiali
   
   
 end
