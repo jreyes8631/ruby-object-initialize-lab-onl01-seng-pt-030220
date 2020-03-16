@@ -1,5 +1,5 @@
 class Dog
-  def initiali
+  def initialize = (person)
   
   
 end
